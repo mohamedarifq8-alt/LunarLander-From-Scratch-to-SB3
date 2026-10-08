@@ -1,9 +1,15 @@
 # 🚀 Mastering PPO: From Scratch to Production (LunarLanderContinuous-v3)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Gymnasium](https://img.shields.io/badge/Gymnasium-RL_Environment-112C3E)](https://gymnasium.farama.org/)
+[![Stable Baselines3](https://img.shields.io/badge/Stable_Baselines3-Production_RL-4B8BBE)](https://stable-baselines3.readthedocs.io/)
+[![NumPy](https://img.shields.io/badge/NumPy-Mathematics-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Model_Training-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 This repository documents a complete engineering journey of training an AI agent to control a spacecraft landing using the **Proximal Policy Optimization (PPO)** algorithm. The project doesn't just rely on out-of-the-box libraries; it progresses from building the algorithm mathematically and programmatically from scratch, to accelerating training via vectorized environments, and finally implementing industrial production standards.
 
 ---
-
+<img width="1904" height="942" alt="Screenshot 2026-09-16 230604" src="https://github.com/user-attachments/assets/030cadd3-6784-452c-bb02-1c4c617648f9" />
 
 ## 🛤️ The Journey (Project Phases)
 
@@ -87,3 +93,9 @@ To evaluate a trained agent and render a video:
 ```bash
 python scripts/evaluate_and_render.py
 ```
+
+
+## 👨‍💻 Author
+**Mohammed Arif Mahyoub Haider**
+
+*Electrical Engineer - Computer and Industrial Control*
