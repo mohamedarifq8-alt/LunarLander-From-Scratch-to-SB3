@@ -9,7 +9,7 @@
 This repository documents a complete engineering journey of training an AI agent to control a spacecraft landing using the **Proximal Policy Optimization (PPO)** algorithm. The project doesn't just rely on out-of-the-box libraries; it progresses from building the algorithm mathematically and programmatically from scratch, to accelerating training via vectorized environments, and finally implementing industrial production standards.
 
 ---
-<img width="1904" height="942" alt="Screenshot 2026-09-16 230604" src="https://github.com/user-attachments/assets/030cadd3-6784-452c-bb02-1c4c617648f9" />
+<img width="596" height="403" alt="Screenshot 2026-10-09 002220" src="https://github.com/user-attachments/assets/e1de885f-bfb1-418c-9693-ef190c3b90d0" />
 
 ## 🛤️ The Journey (Project Phases)
 
