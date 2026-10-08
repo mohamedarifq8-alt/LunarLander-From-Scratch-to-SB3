@@ -4,6 +4,7 @@ This repository documents a complete engineering journey of training an AI agent
 
 ---
 
+
 ## 🛤️ The Journey (Project Phases)
 
 This project was built in three main phases to deeply understand and apply Deep Reinforcement Learning (RL) concepts:
